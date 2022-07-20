@@ -74,7 +74,7 @@ const User = () => {
                   rel="noreferrer"
                   className="btn btn-outline"
                 >
-                  Visit Githb Profile
+                  Visit Github Profile
                 </a>
               </div>
             </div>
